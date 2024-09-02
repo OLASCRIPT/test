@@ -1,0 +1,12 @@
+.container{  
+    display:flex ;
+    justify-content: space-evenly;
+    color: black;
+
+}
+
+.containerLeft{
+margin: 0;
+padding: 0;
+
+}
